@@ -1,0 +1,3 @@
+[submodule "dumber"]
+	path = dumber
+	url = https://github.com/INSA-GEI/dumber.git

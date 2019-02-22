@@ -16,14 +16,14 @@ git submodule update --recursive #Facultatif : mise a jour du code du TP
 ```
 
 ## Envoi du travail
-NB : lors d'un commit, il faut sortir de Vim en entrant `Echap :wq Entrée`. Un message de commit doit répondre à "Ce commit va...". Un message vide annule le commit.
 
 ```bash
 git add . #Ajout eventuel de nouveaux fichiers
 git commit -a #Preparation du commit en ajoutant tous les fichiers modifiés, mais pas les nouveaux !
 git push #Envoie tes modifications sur le repo en ligne.
 ```
-NB 2 : En cas d'erreur lors du push, vérifie que tu a bien mis à jour le repo avant de commit.
+**NB :** lors d'un commit, il faut sortir de Vim en entrant `Echap :wq Entrée`. Un message de commit doit répondre à "Ce commit va...". Un message vide annule le commit.
+**NB 2 :** En cas d'erreur lors du push, vérifie que tu a bien mis à jour le repo avant de commit.
 
 
 # Guide du projet

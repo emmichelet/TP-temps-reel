@@ -27,4 +27,4 @@ NB 2 : En cas d'erreur lors du push, vérifie que tu a bien mis à jour le repo 
 
 
 # Guide du projet
-Le guide pour commencer le projet avec Netbeans est hébergé sur [Moodle](https://moodle.insa-toulouse.fr/pluginfile.php/92209/mod_resource/content/6/guide.pdf).
+Le guide pour commencer le projet avec Netbeans est hébergé sur [Moodle](https://moodle.insa-toulouse.fr/pluginfile.php/92209/mod_resource/content/6/guide.pdf) ou directement [sur le repo](https://github.com/dotsumae/TP-temps-reel/blob/master/specification/guide.pdf).

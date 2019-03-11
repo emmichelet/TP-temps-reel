@@ -1,4 +1,4 @@
-# Dumber
+# Dumber (copie locale, [original ici](https://github.com/INSA-GEI/dumber))
 
 Depot du projet de temps reel 4eme année au departement GEI de l'INSA Toulouse.
 
